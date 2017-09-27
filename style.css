@@ -14,6 +14,7 @@
   background-image: url(images/doberman.jpeg);
   padding: 30px;
   background-color: black;
+  transition-duraiton: 5s;
 
 }
 .wrap {
@@ -35,3 +36,75 @@
   background-color: red;
   transition: background-color 3s;
 }*/
+/*.img-o {
+  height: 200px;
+  width: 200px;
+  opacity: 1;
+}
+.img-o-half {
+  height: 200px;
+  width: 200px;
+  opacity: .5;
+}
+.img-o-quart {
+  height: 200px;
+  width: 200px;
+  opacity: .25;
+}*/
+/*.overflow-y {
+  height: 500px;
+  width: 500px;
+  border: 2px solid black;
+  overflow-y: scroll;
+}*/
+/*.blend {
+  background-blend-mode: darken;
+  height: 200px;
+  widows: 200px;
+  background-size: 100%;
+  background-repeat: none;
+}*/
+/*.line-one {
+  text-align: left;
+}
+.line-two {
+  text-align: right;
+}*/
+/*.column-one {
+  column-rule: 10px;
+  width: 20px;
+  height: 40px;
+}*/
+/*.box-shadow {
+  height: 300px;
+  width: 300px;
+  background-color: blue;
+  box-shadow: 20px 20px 20px 3px black;
+}*/
+/*.resizeable {
+  width: 300px;
+  height: 300px;
+  background-color: red;
+  overflow: auto;
+  resize: both;
+}
+.text-strike {
+  text-strike: strike;
+}*/
+/*.decorated {
+  text-decoration: line-through;
+  text-shadow: 2px;
+}*/
+/*ul {
+  list-style: circle;
+}
+.box-1, .box-2, .box-3 {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  position: relative;
+  -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
+} 
+.box-1 {
+  transform: rotate(34deg);
+}
