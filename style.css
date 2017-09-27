@@ -14,5 +14,11 @@
   background-image: url(images/doberman.jpeg);
   padding: 30px;
   background-color: black;
-  
+
 }
+.wrap {
+  width: 50px;
+  background-color: green;
+  word-wrap: normal;
+
+  }
