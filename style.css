@@ -8,7 +8,7 @@
   height: 50px;
   border-radius: 100%;
 }*/
-.doberman {
+/*.doberman {
   width: 200px;
   height: 200px;
   background-image: url(images/doberman.jpeg);
@@ -21,4 +21,10 @@
   background-color: green;
   word-wrap: normal;
 
-  }
+  }*/
+.gradient {
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  background: repeating-radial-gradient(rgba(244,244,244,0),red 30%);
+}
